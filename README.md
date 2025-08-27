@@ -33,7 +33,7 @@ It is **not a full-fledged calculator or interpreter**, but instead a **study pr
 Run the interpreter:
 
 ```bash
-python3 dynacalc.py
+python3 interperter.py
 ```
 
 Then, try expressions:
